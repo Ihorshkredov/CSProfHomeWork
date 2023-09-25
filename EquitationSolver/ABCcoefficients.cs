@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSProfHomeWork
+namespace EquitationSolver
 {
-    internal class ABCcoefficients
+    public class ABCcoefficients
     {
         public int A { get;}
         public int B { get;}
